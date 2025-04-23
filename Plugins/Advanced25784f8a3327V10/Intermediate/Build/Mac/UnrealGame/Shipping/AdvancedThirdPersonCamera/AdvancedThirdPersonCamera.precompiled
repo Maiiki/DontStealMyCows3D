@@ -1,0 +1,16 @@
+{
+	"OutputFiles": [
+		"../../../arm64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.1.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.2.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.3.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.1.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.2.cpp.o",
+		"../../../arm64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.3.cpp.o",
+		"../../../x64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.1.cpp.o",
+		"../../../x64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.2.cpp.o",
+		"../../../x64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.3.cpp.o",
+		"../../../x64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.1.cpp.o",
+		"../../../x64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.2.cpp.o",
+		"../../../x64/UnrealGame/Shipping/AdvancedThirdPersonCamera/Module.AdvancedThirdPersonCamera.3.cpp.o"
+	]
+}
