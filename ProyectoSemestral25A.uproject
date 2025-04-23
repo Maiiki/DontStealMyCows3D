@@ -15,6 +15,11 @@
 			"Name": "SMSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/916643d0c665469594233cb0487e6d3d"
+		},
+		{
+			"Name": "AdvancedThirdPersonCamera",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/f51f489a722e422a9d3190e2b07bb493"
 		}
 	]
 }
